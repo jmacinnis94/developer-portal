@@ -14,7 +14,8 @@ const nextConfig = {
   env: {
     GTM_ID: process.env.GTM_ID,
     GTM_AUTH: process.env.GTM_AUTH,
-    GTM_ENVIRONMENT: process.env.GTM_ENVIRONMENT
+    GTM_ENVIRONMENT: process.env.GTM_ENVIRONMENT,
+    SITE_URL: process.env.SITE_URL
   },
   images: {
     domains: ['sitecorecdn.azureedge.net', 'i.ytimg.com', 'mss-p-006-delivery.sitecorecontenthub.cloud'],
