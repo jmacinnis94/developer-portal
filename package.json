@@ -28,7 +28,7 @@
     "react-twitter-embed": "^3.0.3",
     "recursive-readdir-sync": "^1.0.6",
     "remark-gfm": "^2.0.0",
-    "tailwindcss-classnames": "^2.2.3",
+    "tailwindcss-classnames": "^2.2.4",
     "unist-util-visit": "^4.0.0"
   },
   "devDependencies": {
